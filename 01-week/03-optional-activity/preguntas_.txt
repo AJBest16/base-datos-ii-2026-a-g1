@@ -1,0 +1,13 @@
+1. ¿Qué criterios usaría para decidir cuándo migrar de archivos planos a un SGBD?
+	•	Presencia de datos duplicados e inconsistentes.
+
+	•	Necesidad de consultas y reportes históricos confiables.
+
+	•	Riesgo de pérdida de información por manejo manual de archivos.
+
+2. ¿Qué tipo de SGBD parece más adecuado para este contexto y por qué?
+	•	SGBD relacional, por su estructura clara de datos.
+
+	•	Permite relaciones e integridad referencial entre entidades.
+
+	•	Facilita el uso de consultas SQL para reportes académicos.
